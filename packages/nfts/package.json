@@ -67,7 +67,7 @@
     "@aws-sdk/lib-storage": "^3.574.0",
     "@openzeppelin/contracts": "5.0.2",
     "@openzeppelin/contracts-upgradeable": "5.0.2",
-    "@openzeppelin/merkle-tree": "^1.0.6",
+    "@openzeppelin/merkle-tree": "^1.0.8",
     "@taiko/supplementary-contracts": "workspace:*",
     "convert-csv-to-json": "^2.46.0",
     "dotenv": "^16.4.5",
